@@ -1,0 +1,551 @@
+Title,Score,Year,Genre,Released,Critics,Perspective,Gameplay,Interface,Setting
+Super Mario Odyssey,9.4,2017,['Action'],October,96,['Behind view'],['Platform'],['Direct control'],['Fantasy']
+The Legend of Zelda: Breath of the Wild,9.4,2017,['Action'],March,96,['Behind view'],"['Puzzle elements', 'Role-playing elements', 'Sandbox / open world']","['Direct control', 'Motion control']","['Fantasy', 'Post-apocalyptic', 'Sci-fi / futuristic']"
+The Legend of Zelda: Tears of the Kingdom,9.3,2023,['Action'],May,95,['Behind view'],"['Puzzle elements', 'Role-playing elements', 'Sandbox / open world']",['Direct control'],['Fantasy']
+Metroid Prime: Remastered,9.3,2023,['Action'],February,94,['1st-person'],['Metroidvania'],['Direct control'],['Sci-fi / futuristic']
+Hollow Knight,9.1,2018,['Action'],February,93,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Fantasy']
+Mario Kart 8 Deluxe,9.0,2017,['Racing / Driving'],April,93,['Behind view'],['Arcade'],"['Direct control', 'Motion control']",['Fantasy']
+Celeste,8.9,2018,['Action'],January,91,['Side view'],['Platform'],['Direct control'],['Fantasy']
+Super Mario Bros. Wonder,8.9,2023,['Action'],October,90,['Side view'],['Platform'],['Direct control'],['Fantasy']
+Persona 5: Royal,8.9,2022,"['Role-playing (RPG)', 'Compilation']",October,95,['Behind view'],"['Japanese-style', 'Role-playing']","['Direct control', 'Menu structures']","['Asia', 'Contemporary', 'Fantasy']"
+Hades,8.9,2020,['Role-playing (RPG)'],December,94,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash', 'Roguelike']",['Direct control'],"['Classical antiquity', 'Fantasy']"
+Super Smash Bros. Ultimate,8.9,2018,['Action'],December,93,['Side view'],['Fighting'],,
+Xenoblade Chronicles 3,8.8,2022,['Role-playing (RPG)'],July,91,['3rd-person'],"['Action', 'Role-playing', 'Japanese-style', 'Role-playing', 'Sandbox / open world']",,['Fantasy']
+Bayonetta 2,8.8,2018,['Action'],September,92,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Metroid Dread,8.8,2021,['Action'],October,90,['Side view'],"['Metroidvania', 'Platform', 'Shooter']",['Direct control'],['Sci-fi / futuristic']
+Paper Mario: The Thousand-Year Door,8.7,2024,['Role-playing (RPG)'],May,88,"['Behind view', 'Side view']","['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Inside,8.7,2018,['Action'],June,90,['Side view'],"['Platform', 'Puzzle elements', 'Stealth']",['Direct control'],
+Tetris Effect,8.7,2021,"['Action', 'Puzzle']",November,92,['Side view'],['Falling block puzzle'],['Direct control'],
+Super Mario 3D World + Bowser’s Fury,8.7,2021,['Action'],2021,88,['3rd-person'],['Platform'],['Direct control'],
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,8.7,2019,['Role-playing (RPG)'],September,92,['3rd-person'],"['Action', 'Role-playing', 'Sandbox / open world']",['Direct control'],['Fantasy']
+The House in Fata Morgana: Dreams of the Revenants Edition,8.6,2021,"['Adventure', 'Compilation']",2019,92,['1st-person'],['Visual novel'],,
+Lorelei and the Laser Eyes,8.6,2024,"['Adventure', 'Puzzle']",May,88,"['1st-person', '3rd-person']",,"['Direct control', 'Point and select']",['Europe']
+Chained Echoes,8.6,2022,['Role-playing (RPG)'],December,90,['Diagonal-down'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Theatrhythm: Final Bar Line,8.6,2023,['Action'],February,87,['Side view'],['Music / rhythm'],['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Super Mario Maker 2,8.6,2019,['Action'],June,90,['Side view'],['Platform'],"['Direct control', 'Point and select']",
+Mario + Rabbids: Sparks of Hope,8.6,2022,['Role-playing (RPG)'],October,86,['Diagonal-down'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+Undertale,8.6,2018,['Role-playing (RPG)'],September,91,['Diagonal-down'],"['Japanese-style', 'Role-playing']",['Menu structures'],['Fantasy']
+13 Sentinels: Aegis Rim,8.6,2022,"['Adventure', 'Strategy / tactics']",November,88,"['Diagonal-down', 'Side view']","['Graphic adventure', 'Puzzle elements', 'Role-playing elements']","['Direct control', 'Point and select']","['Fantasy', 'Japan', 'Japan', 'Post-apocalyptic', 'Sci-fi / futuristic']"
+Kirby and the Forgotten Land,8.5,2022,['Action'],March,88,"['3rd-person', 'Diagonal-down']",['Platform'],['Direct control'],['Fantasy']
+Monster Hunter: Rise,8.5,2021,['Role-playing (RPG)'],March,88,['Behind view'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Persona 4 Golden,8.5,2023,['Role-playing (RPG)'],June,93,['3rd-person'],,,['Fantasy']
+Minecraft: Nintendo Switch Edition,8.5,2017,['Action'],May,88,"['1st-person', '3rd-person']",['Sandbox / open world'],,['Fantasy']
+Balatro,8.5,2024,['Strategy / tactics'],February,92,"['1st-person', 'Top-down']","['Cards / tiles', 'Roguelike']",['Point and select'],
+Tsukihime: A piece of blue glass moon,8.5,2021,['Adventure'],August,92,['1st-person'],['Visual novel'],['Menu structures'],"['Contemporary', 'Fantasy']"
+Shin Megami Tensei V,8.5,2021,['Role-playing (RPG)'],November,88,"['3rd-person', 'Behind view']",,['Direct control'],"['Fantasy', 'Japan', 'Post-apocalyptic']"
+Atari 50: The Anniversary Celebration,8.5,2022,"['Action', 'Educational', 'Compilation']",November,87,,['Arcade'],"['Direct control', 'Point and select']",
+Animal Well,8.5,2024,['Action'],May,90,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Fantasy']
+Diablo III: Eternal Collection,8.5,2018,"['Role-playing (RPG)', 'Compilation']",June,88,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Stardew Valley,8.5,2017,"['Simulation', 'Role-playing (RPG)']",February,91,['Diagonal-down'],['City building / construction simulation'],['Direct control'],
+Xenoblade Chronicles: Definitive Edition,8.5,2020,['Role-playing (RPG)'],May,91,['3rd-person'],"['Action', 'Role-playing', 'Japanese-style', 'Role-playing', 'Sandbox / open world']",['Direct control'],['Fantasy']
+Animal Crossing: New Horizons,8.4,2020,['Simulation'],March,89,['Diagonal-down'],['Life / social simulation'],['Direct control'],
+The Messenger,8.4,2018,['Action'],August,86,['Side view'],"['Platform', 'Puzzle elements']",['Direct control'],"['Asia', 'Fantasy']"
+AI: The Somnium Files,8.4,2019,['Adventure'],September,84,['1st-person'],"['Japanese-style adventure', 'Puzzle elements', 'Quick', 'Time', 'Events']",['Point and select'],"['Japan', 'Sci-fi / futuristic']"
+The Legend of Zelda: Link's Awakening,8.4,2019,['Action'],September,88,"['Diagonal-down', 'Side view']","['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Return to Monkey Island,8.4,2022,['Adventure'],September,87,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],"['Fantasy', 'Sea pirates /', 'Caribbean']"
+Rocket League,8.4,2017,"['Sports', 'Racing / Driving']",July,86,['Behind view'],,['Direct control'],['Sci-fi / futuristic']
+The Elder Scrolls V: Skyrim - Special Edition,8.4,2017,"['Role-playing (RPG)', 'Compilation']",October,87,"['1st-person', 'Behind view']","['Action', 'Role-playing', 'Sandbox / open world']",['Direct control'],['Fantasy']
+Monster Boy and the Cursed Kingdom,8.4,2018,['Action'],December,87,['Side view'],"['Metroidvania', 'Platform', 'Role-playing elements']",['Direct control'],['Fantasy']
+Donkey Kong Country: Tropical Freeze,8.4,2018,['Action'],February,85,['Side view'],['Platform'],,
+Castlevania: Dominus Collection,8.4,2024,"['Action', 'Role-playing (RPG)', 'Compilation']",August,91,['Side view'],"['Metroidvania', 'Platform']",,"['Europe', 'Fantasy']"
+Ori and the Blind Forest: Definitive Edition,8.4,2019,['Action'],March,92,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",,['Fantasy']
+Unavowed,8.4,2021,['Adventure'],August,89,['3rd-person'],['Graphic adventure'],['Point and select'],"['Fantasy', 'North', 'America']"
+Tactics Ogre: Reborn,8.4,2022,"['Strategy / tactics', 'Role-playing (RPG)']",November,86,['Diagonal-down'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+Jack Jeanne,8.4,2021,['Simulation'],March,88,,"['Music / rhythm', 'Visual novel']",['Point and select'],['Japan']
+NEO: The World Ends with You,8.4,2021,['Role-playing (RPG)'],July,88,"['3rd-person', 'Diagonal-down']","['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Shovel Knight: Treasure Trove,8.4,2017,"['Action', 'Compilation']",November,88,['Side view'],['Platform'],,
+Pikmin 4,8.4,2023,"['Action', 'Strategy / tactics', 'Puzzle']",July,86,['3rd-person'],,"['Direct control', 'Multiple units/characters control']","['Contemporary', 'Fantasy', 'Sci-fi / futuristic']"
+Sonic Mania Plus,8.3,2018,"['Compilation', 'Special edition']",July,88,,,,
+Streets of Rage 4,8.3,2020,['Action'],2020,86,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+A Space for the Unbound,8.3,2023,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Visual novel']","['Direct control', 'Point and select']","['Asia', 'Fantasy']"
+A Short Hike,8.3,2020,['Action'],April,88,['Diagonal-down'],"['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+The Legend of Zelda: Echoes of Wisdom,8.3,2024,['Action'],September,85,['Diagonal-down'],"['Puzzle elements', 'Role-playing elements', 'Sandbox / open world']",['Direct control'],['Fantasy']
+Pikmin 3 Deluxe,8.3,2020,"['Action', 'Strategy / tactics', 'Puzzle']",October,85,['3rd-person'],,"['Direct control', 'Multiple units/characters control']","['Contemporary', 'Fantasy', 'Sci-fi / futuristic']"
+Axiom Verge,8.3,2017,['Action'],March,87,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements', 'Shooter']",,['Sci-fi / futuristic']
+Cave Story+,8.3,2017,['Action'],June,88,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements', 'Shooter']",,['Fantasy']
+Nobody Saves the World,8.3,2022,['Role-playing (RPG)'],January,81,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+The Stanley Parable: Ultra Deluxe,8.3,2022,['Adventure'],April,90,['1st-person'],,['Direct control'],['Contemporary']
+Luigi's Mansion 3,8.3,2019,['Action'],October,88,"['Behind view', 'Side view']",['Puzzle elements'],['Direct control'],
+Neon White,8.3,2022,['Action'],June,89,['1st-person'],"['Platform', 'Shooter']",['Direct control'],['Fantasy']
+Splatoon 3,8.3,2022,['Action'],September,86,['Behind view'],['Shooter'],['Direct control'],['Fantasy']
+Ace Attorney Investigations Collection,8.3,2024,"['Adventure', 'Simulation', 'Compilation']",September,84,['1st-person'],['Puzzle elements'],['Menu structures'],
+Super Mario RPG,8.3,2023,"['Action', 'Role-playing (RPG)']",November,84,['Diagonal-down'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+The Binding of Isaac: Afterbirth+,8.3,2017,['Action'],March,86,['Diagonal-down'],"['Roguelike', 'Shooter']",,
+Fire Emblem: Three Houses,8.3,2019,"['Action', 'Strategy / tactics', 'Role-playing (RPG)']",July,88,"['1st-person', '3rd-person', 'Diagonal-down']","['Japanese-style', 'Role-playing', 'Puzzle elements', 'Turn-based strategy']","['Direct control', 'Point and select']",['Fantasy']
+Mario + Rabbids: Kingdom Battle,8.3,2017,['Role-playing (RPG)'],August,85,['Diagonal-down'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+Teenage Mutant Ninja Turtles: Shredder's Revenge,8.3,2022,['Action'],June,86,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],"['Fantasy', 'North', 'America']"
+Ōkami,8.3,2018,['Action'],April,92,['Behind view'],"['Metroidvania', 'Puzzle elements']",['Direct control'],"['Fantasy', 'Japan']"
+Sea of Stars,8.3,2023,['Role-playing (RPG)'],August,89,['Top-down'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+SteamWorld Dig 2,8.3,2017,['Action'],September,88,['Side view'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Steampunk']
+BlazBlue: Central Fiction (Special Edition),8.3,2019,['Action'],February,84,['Side view'],['Fighting'],,
+Sonic Mania,8.3,2017,['Action'],August,86,['Side view'],['Platform'],['Direct control'],['Fantasy']
+30XX,8.2,2023,['Action'],February,84,['Side view'],"['Platform', 'Roguelike', 'Shooter']",['Direct control'],['Sci-fi / futuristic']
+BioShock: The Collection,8.2,2020,"['Action', 'Compilation']",September,84,['1st-person'],['Shooter'],['Direct control'],"['Sci-fi / futuristic', 'Steampunk']"
+Beacon Pines,8.2,2022,['Adventure'],September,86,['Diagonal-down'],['Visual novel'],['Direct control'],['Fantasy']
+Ori and the Will of the Wisps,8.2,2020,['Action'],March,90,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Octopath Traveler II,8.2,2023,['Role-playing (RPG)'],February,85,"['Diagonal-down', 'Side view']","['Japanese-style', 'Role-playing']","['Direct control', 'Menu structures', 'Multiple units/characters control']",['Fantasy']
+Hyper Light Drifter: Special Edition,8.2,2018,['Role-playing (RPG)'],September,87,['Diagonal-down'],"['Action', 'Role-playing', 'Platform']",['Direct control'],"['Fantasy', 'Post-apocalyptic', 'Sci-fi / futuristic']"
+Steins;Gate Elite,8.2,2018,['Adventure'],September,84,"['1st-person', '3rd-person']",['Visual novel'],,
+AI: The Somnium Files - nirvanA Initiative,8.2,2022,['Adventure'],June,87,['3rd-person'],['Puzzle elements'],['Menu structures'],"['Japan', 'Sci-fi / futuristic']"
+Hades,8.2,2021,['Special edition'],2021,93,,,,
+Shovel Knight: Specter of Torment,8.2,2017,['Action'],2017,86,['Side view'],['Platform'],,
+Rune Factory 4 Special,8.2,2019,"['Simulation', 'Role-playing (RPG)']",July,87,['Diagonal-down'],,,['Fantasy']
+Paranormasight: The Seven Mysteries of Honjo,8.2,2023,['Adventure'],March,84,"['Text-based /', 'Spreadsheet']","['Platform', 'Puzzle elements', 'Visual novel']",['Point and select'],
+Unicorn Overlord,8.2,2024,['Role-playing (RPG)'],March,89,['Diagonal-down'],"['Tactical', 'Role-playing']","['Direct control', 'Menu structures']",['Fantasy']
+Splatoon 2,8.2,2017,['Action'],July,84,['Behind view'],['Shooter'],,['Fantasy']
+Dead Cells,8.2,2018,['Action'],May,89,['Side view'],"['Metroidvania', 'Platform', 'Roguelike']",['Direct control'],['Fantasy']
+Katana Zero,8.2,2019,['Action'],April,88,['Side view'],['Platform'],['Direct control'],['Cyberpunk / dark sci-fi']
+Thank Goodness You're Here!,8.2,2024,['Adventure'],August,86,['3rd-person'],,['Direct control'],
+Return of the Obra Dinn,8.2,2019,['Adventure'],October,90,['1st-person'],"['Graphic adventure', 'Puzzle elements']",['Direct control'],['Europe']
+Octopath Traveler,8.2,2018,['Role-playing (RPG)'],July,84,"['Diagonal-down', 'Side view']","['Japanese-style', 'Role-playing', 'Puzzle elements']","['Direct control', 'Menu structures', 'Multiple units/characters control']","['Fantasy', 'Medieval']"
+Life Is Strange: True Colors,8.2,2021,['Adventure'],September,81,['3rd-person'],"['Graphic adventure', 'Puzzle elements']","['Direct control', 'Point and select']","['Contemporary', 'Fantasy', 'North', 'America']"
+Huntdown,8.2,2020,['Action'],May,88,['Side view'],"['Platform', 'Shooter']",['Direct control'],['Cyberpunk / dark sci-fi']
+Love 3,8.2,2021,['Action'],December,94,['Side view'],['Platform'],,
+Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island,8.2,2024,['Role-playing (RPG)'],January,85,['Diagonal-down'],['Roguelike'],['Direct control'],['Fantasy']
+Astral Chain,8.2,2019,['Action'],August,86,"['3rd-person', 'Behind view']","['Hack and slash', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Sci-fi / futuristic']
+Katamari Damacy: Reroll,8.2,2018,"['Action', 'Puzzle']",December,85,"['Behind view', 'Diagonal-down']",,['Direct control'],['Fantasy']
+Cadence of Hyrule: Crypt of the NecroDancer featuring...,8.2,2019,['Action'],June,85,['Diagonal-down'],"['Music / rhythm', 'Roguelike']",,['Fantasy']
+Vampire Survivors,8.2,2023,['Action'],December,87,['Diagonal-down'],['Roguelike'],['Direct control'],['Fantasy']
+Dragon Quest Builders 2,8.2,2018,"['Action', 'Role-playing (RPG)']",December,86,['3rd-person'],"['Action', 'Role-playing', 'Sandbox / open world']",,['Fantasy']
+Hyper Light Drifter: Special Edition,8.2,2021,['Special edition'],January,85,,,,
+Just Shapes & Beats,8.2,2018,['Action'],May,88,['Side view'],"['Arcade', 'Platform', 'Shooter']",['Direct control'],
+Tinykin,8.2,2022,['Action'],August,83,['3rd-person'],"['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+The Legend of Zelda: Skyward Sword,8.2,2021,['Action'],November,91,"['1st-person', 'Behind view']","['Metroidvania', 'Puzzle elements']","['Direct control', 'Motion control']",['Fantasy']
+NieR: Automata (Game of the YoRHa Edition),8.2,2022,"['Role-playing (RPG)', 'Compilation', 'Special edition']",February,89,['Behind view'],"['Action', 'Role-playing', 'Hack and slash', 'Sandbox / open world']",['Direct control'],"['Post-apocalyptic', 'Sci-fi / futuristic']"
+Neva,8.2,2024,"['Action', 'Puzzle']",October,87,['Side view'],['Platform'],['Direct control'],
+Bayonetta 3,8.2,2022,['Action'],October,83,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+West of Loathing,8.2,2018,['Role-playing (RPG)'],August,87,['Side view'],,,['Western']
+Littlewood,8.2,2021,['Role-playing (RPG)'],June,85,['Diagonal-down'],"['Japanese-style', 'Role-playing', 'Life / social simulation']","['Direct control', 'Menu structures']",['Fantasy']
+Castlevania: Advance Collection,8.1,2021,"['Action', 'Role-playing (RPG)', 'Compilation']",September,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements', 'Role-playing elements']",,"['Europe', 'Fantasy']"
+Coffee Talk: Episode 2 - Hibiscus & Butterfly,8.1,2023,"['Adventure', 'Simulation']",April,81,['1st-person'],['Visual novel'],['Point and select'],['Fantasy']
+Wargroove,8.1,2019,['Strategy / tactics'],February,85,['Diagonal-down'],['Turn-based strategy'],['Point and select'],['Fantasy']
+The Legend of Heroes: Trails to Azure,8.1,2021,['Role-playing (RPG)'],September,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']","['Direct control', 'Menu structures']",['Fantasy']
+Raiden IV x MIKADO remix,8.1,2021,['Action'],April,80,['Top-down'],"['Arcade', 'Shooter']",['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Lil Gator Game,8.1,2022,['Simulation'],December,84,['Behind view'],,['Direct control'],['Fantasy']
+Bakeru,8.1,2023,['Action'],November,82,['3rd-person'],"[""Beat 'em up / brawler"", 'Platform']",['Direct control'],"['Fantasy', 'Japan']"
+Cupid Parasite,8.1,2020,"['Adventure', 'Simulation']",August,85,['3rd-person'],['Visual novel'],['Point and select'],['Fantasy']
+Dark Souls: Remastered,8.1,2018,['Role-playing (RPG)'],May,86,['Behind view'],"['Action', 'Role-playing', 'Hack and slash', 'Metroidvania']",['Direct control'],['Fantasy']
+Alien: Isolation,8.1,2019,['Action'],October,83,['1st-person'],"['Shooter', 'Stealth', 'Survival horror']",,['Sci-fi / futuristic']
+CrossCode,8.1,2020,['Role-playing (RPG)'],May,88,['Diagonal-down'],"['Action', 'Role-playing', 'Puzzle elements']",,['Sci-fi / futuristic']
+Ghost Trick: Phantom Detective,8.1,2023,['Adventure'],June,87,['Side view'],['Puzzle elements'],,['Fantasy']
+Dave the Diver,8.1,2023,"['Action', 'Simulation']",October,89,['Side view'],['Managerial / business simulation'],"['Direct control', 'Menu structures']",
+Ikaruga,8.1,2018,['Action'],December,86,['Top-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Cuphead,8.1,2019,['Action'],September,86,['Side view'],"['Platform', 'Shooter']",['Direct control'],['Fantasy']
+Tony Hawk's Pro Skater 1 + 2,8.1,2021,"['Action', 'Sports']",September,90,['Behind view'],['Tricks / stunts'],['Direct control'],
+Anonymous;Code,8.1,2022,['Adventure'],July,84,['1st-person'],['Visual novel'],['Point and select'],"['Fantasy', 'Japan']"
+Atelier Ryza 3: Alchemist of the End & the Secret Key,8.1,2023,['Role-playing (RPG)'],March,85,['Behind view'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+qomp2,8.1,2024,['Action'],February,78,['Side view'],,,
+Live A Live,8.1,2022,['Role-playing (RPG)'],July,81,['Diagonal-down'],"['Japanese-style', 'Role-playing', 'Puzzle elements']","['Direct control', 'Multiple units/characters control']","['Fantasy', 'Sci-fi / futuristic', 'Western']"
+Shin Megami Tensei III: Nocturne - HD Remaster,8.1,2020,['Role-playing (RPG)'],October,82,['3rd-person'],,,['Post-apocalyptic']
+Yoku's Island Express,8.1,2018,['Action'],May,83,['Side view'],"['Metroidvania', 'Pinball', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Fire Emblem: Engage,8.1,2023,"['Strategy / tactics', 'Role-playing (RPG)']",January,82,['Diagonal-down'],"['Tactical', 'Role-playing']",,['Fantasy']
+It Takes Two,8.1,2022,['Action'],March,89,"['Behind view', 'Side view']","['Mini-games', 'Platform', 'Puzzle elements']",['Direct control'],"['Contemporary', 'Fantasy']"
+Advance Wars 1+2: Re-Boot Camp,8.1,2023,['Strategy / tactics'],April,81,['Diagonal-down'],['Turn-based strategy'],,
+Undernauts: Labyrinth of Yomi,8.1,2020,['Role-playing (RPG)'],October,82,['1st-person'],,['Direct control'],['Fantasy']
+Pokémon Legends: Arceus,8.1,2022,['Role-playing (RPG)'],January,84,['Behind view'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Dredge,8.1,2023,['Simulation'],March,84,['Top-down'],"['Puzzle elements', 'Role-playing elements', 'Sandbox / open world']",['Direct control'],['Fantasy']
+Star Ocean: The Second Story R,8.1,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Doom Eternal,8.1,2020,['Action'],March,88,['1st-person'],['Shooter'],['Direct control'],['Sci-fi / futuristic']
+Puyo Puyo Tetris,8.1,2017,"['Action', 'Puzzle']",February,83,['Side view'],['Falling block puzzle'],['Direct control'],
+1000xRESIST,8.1,2024,['Adventure'],May,87,['3rd-person'],,['Direct control'],"['Post-apocalyptic', 'Sci-fi / futuristic']"
+Pinball FX3,8.1,2017,['Simulation'],September,86,['Top-down'],['Pinball'],,
+Apollo Justice: Ace Attorney Trilogy,8.1,2024,"['Adventure', 'Simulation', 'Compilation']",January,83,['1st-person'],['Puzzle elements'],['Menu structures'],
+Triangle Strategy,8.1,2022,['Role-playing (RPG)'],March,83,['Diagonal-down'],"['Tactical', 'Role-playing']","['Direct control', 'Menu structures']",['Fantasy']
+Mega Man 11,8.1,2018,['Action'],October,82,['Side view'],"['Platform', 'Shooter']",,['Sci-fi / futuristic']
+Dragon Ball FighterZ,8.1,2018,['Action'],January,87,['Side view'],['Fighting'],['Direct control'],
+Chicken Police: Paint it Red!,8.1,2020,['Adventure'],November,83,['3rd-person'],['Visual novel'],['Point and select'],
+Rayman Legends,8.1,2017,['Action'],August,91,['Side view'],"['Mini-games', 'Platform']",,
+Disgaea 5: Complete,8.1,2017,['Role-playing (RPG)'],March,87,['3rd-person'],,,['Fantasy']
+Ape Out,8.1,2019,['Action'],February,84,['Top-down'],['Arcade'],['Direct control'],
+Radiant Tale,8.1,2023,['Adventure'],June,85,['1st-person'],['Visual novel'],['Menu structures'],['Fantasy']
+Kirby's Return to Dream Land: Deluxe,8.1,2023,['Action'],February,81,['Side view'],['Platform'],,['Fantasy']
+Inscryption,8.1,2022,"['Strategy / tactics', 'Puzzle']",October,90,['1st-person'],"['Board game', 'Cards / tiles', 'Trading / collectible card', 'Turn-based strategy']","['Direct control', 'Point and select']",['Fantasy']
+Prince of Persia: The Lost Crown,8.1,2024,['Action'],January,88,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],"['Fantasy', 'Middle', 'East']"
+Blasphemous II,8.0,2023,['Action'],August,87,['Side view'],"['Metroidvania', 'Platform', 'Role-playing elements']",['Direct control'],['Fantasy']
+Cthulhu Saves Christmas,8.1,2020,['Role-playing (RPG)'],December,84,['Diagonal-down'],,,['Fantasy']
+Child of Light: Complete Edition,8.0,2018,['Compilation'],July,84,,,,
+Xenoblade Chronicles 2,8.0,2017,['Role-playing (RPG)'],December,82,['3rd-person'],"['Action', 'Role-playing', 'Japanese-style', 'Role-playing', 'Sandbox / open world']",,['Fantasy']
+Infernax,8.0,2022,['Action'],February,83,['Side view'],"['Metroidvania', 'Platform', 'Role-playing elements']",['Direct control'],['Fantasy']
+Bayonetta Origins: Cereza and the Lost Demon,8.0,2023,"['Action', 'Adventure']",March,81,['Diagonal-down'],['Puzzle elements'],"['Direct control', 'Multiple units/characters control']",['Fantasy']
+Horace,8.0,2020,['Action'],July,84,['Side view'],['Platform'],['Direct control'],['Sci-fi / futuristic']
+To the Moon,8.0,2020,['Adventure'],November,83,['Diagonal-down'],"['Graphic adventure', 'Puzzle elements', 'Visual novel']","['Direct control', 'Point and select']","['Contemporary', 'Fantasy']"
+Tokyo Mirage Sessions ♯FE: Encore,8.0,2020,['Role-playing (RPG)'],January,84,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+The Cosmic Wheel Sisterhood,8.0,2023,['Adventure'],August,86,['3rd-person'],,"['Direct control', 'Menu structures']","['Fantasy', 'Sci-fi / futuristic']"
+Cocoon,8.0,2023,['Puzzle'],September,89,['Diagonal-down'],['Platform'],['Direct control'],['Fantasy']
+Enter the Gungeon,8.0,2017,['Action'],April,85,['Diagonal-down'],"['Roguelike', 'Shooter']",,['Fantasy']
+Bayonetta,8.0,2018,['Action'],October,87,['Behind view'],"['Hack and slash', 'Quick', 'Time', 'Events']",['Direct control'],['Fantasy']
+Capcom Fighting Collection,8.0,2022,"['Action', 'Compilation', 'Puzzle']",June,83,['Side view'],"['Falling block puzzle', 'Fighting', 'Tile matching puzzle']",['Direct control'],
+Signalis,8.0,2022,['Action'],October,81,['Diagonal-down'],"['Shooter', 'Survival horror']",['Direct control'],['Sci-fi / futuristic']
+Overcooked! 2,8.0,2018,['Action'],August,84,['Diagonal-down'],"['Party game', 'Time management']",['Direct control'],
+Baba Is You,8.0,2019,['Puzzle'],March,86,['Diagonal-down'],,['Direct control'],['Fantasy']
+Shovel Knight: Dig,8.0,2022,['Action'],September,82,['Side view'],['Platform'],['Direct control'],['Fantasy']
+Dreamscaper,8.0,2021,['Role-playing (RPG)'],August,87,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Ender Lilies: Quietus of the Knights,8.0,2021,['Action'],January,85,['Side view'],['Metroidvania'],['Direct control'],['Fantasy']
+Assault Android Cactus,8.0,2019,['Action'],August,84,['Top-down'],['Shooter'],['Direct control'],['Sci-fi / futuristic']
+Everhood,8.0,2021,['Adventure'],March,83,['3rd-person'],"['Music / rhythm', 'Role-playing elements']",['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Roots of Pacha,8.0,2023,['Simulation'],April,85,['Diagonal-down'],['City building / construction simulation'],['Direct control'],
+Thronebreaker: The Witcher Tales,8.0,2020,['Strategy / tactics'],October,85,['3rd-person'],"['Cards / tiles', 'Puzzle elements']","['Direct control', 'Point and select']",['Fantasy']
+Wayward Strand,8.0,2022,['Adventure'],September,80,"['3rd-person', 'Side view']",['Graphic adventure'],['Direct control'],
+Freedom Planet 2,8.0,2024,['Action'],September,82,['Side view'],['Platform'],['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Severed,8.0,2017,['Action'],April,83,['1st-person'],['Role-playing elements'],,
+Piofiore: Episodio 1926  (NSFW),8.0,2020,"['Adventure', 'Simulation']",November,87,['1st-person'],['Visual novel'],['Point and select'],"['Europe', 'Interwar']"
+Hotline Miami Collection,8.0,2019,['Compilation'],June,86,,,,
+Disgaea 7: Vows of the Virtueless,8.0,2023,"['Strategy / tactics', 'Role-playing (RPG)']",October,86,['Diagonal-down'],"['Tactical', 'Role-playing']",['Menu structures'],['Fantasy']
+Superhot,8.0,2019,['Action'],February,84,['1st-person'],['Shooter'],['Direct control'],['Fantasy']
+Ring Fit Adventure,8.0,2019,"['Sports', 'Educational']",October,82,"['3rd-person', 'Behind view']","['Mini-games', 'Role-playing elements']",['Motion control'],['Fantasy']
+Fire Emblem Warriors: Three Hopes,8.0,2022,"['Action', 'Role-playing (RPG)']",June,83,['3rd-person'],['Hack and slash'],['Direct control'],['Fantasy']
+Ib,8.0,2023,['Adventure'],April,83,['Diagonal-down'],"['Graphic adventure', 'Puzzle elements']",['Direct control'],
+Gris,8.0,2018,"['Action', 'Puzzle']",December,86,['Side view'],['Platform'],['Direct control'],
+Rolling Gunner,8.0,2019,['Action'],August,88,['Behind view'],"['Arcade', 'Shooter']",['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Unpacking,8.0,2021,"['Simulation', 'Puzzle']",November,83,['Diagonal-down'],,['Point and select'],['Contemporary']
+No More Heroes 2: Desperate Struggle,8.0,2020,['Action'],January,81,['3rd-person'],"['Hack and slash', 'Quick', 'Time', 'Events']",,
+Yooka-Laylee and the Impossible Lair,8.0,2019,['Action'],October,86,"['3rd-person', 'Diagonal-down', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Clubhouse Games: 51 Worldwide Classics,8.0,2020,"['Strategy / tactics', 'Sports', 'Gambling', 'Puzzle']",June,84,"['Diagonal-down', 'Top-down']","['Board game', 'Cards / tiles', 'Chess', 'Tile matching puzzle']",['Direct control'],
+Hatsune Miku: Project DIVA Mega Mix,8.0,2020,['Action'],February,83,,['Music / rhythm'],"['Direct control', 'Motion control']",
+Final Fantasy X | X-2: HD Remaster,8.0,2019,"['Role-playing (RPG)', 'Compilation']",December,86,['Behind view'],,,['Fantasy']
+Slay the Spire,8.0,2019,['Strategy / tactics'],November,88,['Side view'],"['Cards / tiles', 'Roguelike']",['Point and select'],['Fantasy']
+Drainus,8.0,2023,['Action'],May,84,['Side view'],['Shooter'],['Direct control'],
+Mega Man Zero/ZX Legacy Collection,8.0,2020,"['Action', 'Compilation']",February,84,['Side view'],['Platform'],['Direct control'],['Sci-fi / futuristic']
+UnderMine,8.0,2021,['Action'],August,85,['Diagonal-down'],"['Role-playing elements', 'Roguelike']",['Direct control'],['Fantasy']
+Cyber Shadow,8.0,2021,['Action'],January,81,['Side view'],['Platform'],['Direct control'],['Sci-fi / futuristic']
+Death Mark II,8.0,2022,['Adventure'],November,84,"['1st-person', 'Side view']",['Puzzle elements'],['Direct control'],"['Contemporary', 'Fantasy']"
+Oxenfree II: Lost Signals,8.0,2023,['Adventure'],July,77,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Direct control'],['Fantasy']
+Atelier Ryza 2: Lost Legends & the Secret Fairy,8.0,2020,['Role-playing (RPG)'],December,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Menu structures'],['Fantasy']
+Duck Game,8.0,2019,['Action'],May,84,['Side view'],"['Fighting', 'Platform', 'Shooter']",['Direct control'],
+Deemo,8.0,2017,['Action'],November,81,,['Music / rhythm'],,['Fantasy']
+Blazing Chrome,8.0,2019,['Action'],July,82,"['Behind view', 'Side view']","['Platform', 'Shooter']",['Direct control'],"['Fantasy', 'Sci-fi / futuristic']"
+Meg's Monster,8.0,2023,['Role-playing (RPG)'],March,83,['Diagonal-down'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Borderlands: Legendary Collection,8.0,2020,"['Action', 'Compilation']",May,86,['1st-person'],"['Action', 'Role-playing', 'Shooter']",['Direct control'],['Fantasy']
+Thimbleweed Park,8.0,2017,['Adventure'],March,83,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],"['North', 'America']"
+Dusk,8.0,2021,['Action'],January,89,['1st-person'],['Shooter'],['Direct control'],['Fantasy']
+Blaster Master Zero III,8.0,2021,['Action'],July,86,"['Diagonal-down', 'Side view']","['Metroidvania', 'Shooter']",['Direct control'],['Sci-fi / futuristic']
+The Legend of Heroes: Trails from Zero,8.0,2021,['Role-playing (RPG)'],October,86,['Diagonal-down'],"['Japanese-style', 'Role-playing']","['Direct control', 'Menu structures']",['Fantasy']
+New Pokémon Snap,7.9,2021,['Simulation'],April,81,['1st-person'],['Rail shooter'],,['Fantasy']
+Mini Motorways,7.9,2022,['Strategy / tactics'],September,83,['Top-down'],,['Point and select'],
+Atelier Ryza: Ever Darkness & the Secret Hideout,7.9,2019,['Role-playing (RPG)'],September,81,"['1st-person', '3rd-person', 'Behind view']","['Japanese-style', 'Role-playing']","['Direct control', 'Point and select']",['Fantasy']
+Mushihimesama,7.9,2021,['Action'],October,83,['Top-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Dragon Quest Builders,7.9,2018,"['Action', 'Role-playing (RPG)']",January,82,['3rd-person'],"['Action', 'Role-playing', 'Sandbox / open world']",,['Fantasy']
+Two Point Hospital: Jumbo Edition,7.9,2021,['Compilation'],March,85,,,,
+Café Enchanté,7.9,2019,"['Adventure', 'Simulation']",October,83,"['Text-based /', 'Spreadsheet']",['Visual novel'],['Point and select'],"['Fantasy', 'Japan']"
+Moonlighter,7.9,2018,['Action'],May,81,['Diagonal-down'],"['Role-playing elements', 'Roguelike']",['Direct control'],['Fantasy']
+Jenny LeClue: Detectivu,7.9,2020,['Adventure'],September,87,['Side view'],['Graphic adventure'],,['Contemporary']
+The Witcher 3: Wild Hunt - Complete Edition,7.9,2019,['Compilation'],August,88,,,,
+Voez,7.9,2017,['Action'],May,84,,['Music / rhythm'],,
+Danganronpa Decadence,7.9,2021,['Compilation'],December,84,,,,
+What the Golf?,7.9,2020,"['Action', 'Sports']",September,83,"['Diagonal-down', 'Side view']",,['Direct control'],['Fantasy']
+Botany Manor,7.9,2024,['Simulation'],April,84,['1st-person'],['Puzzle elements'],['Direct control'],"['Europe', 'Industrial', 'Age']"
+Red Dead Redemption,7.9,2023,"['Action', 'Compilation']",August,82,['Behind view'],"['Sandbox / open world', 'Shooter']",['Direct control'],"['North', 'America', 'Western']"
+The Legend of Heroes: Trails of Cold Steel III,7.9,2020,['Role-playing (RPG)'],September,86,['Behind view'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+CTR: Crash Team Racing - Nitro-Fueled,7.9,2019,['Racing / Driving'],June,83,['Behind view'],,['Direct control'],['Fantasy']
+Valkyria Chronicles 4,7.9,2018,"['Strategy / tactics', 'Role-playing (RPG)']",March,86,['Behind view'],,"['Direct control', 'Point and select']",
+Gnosia,7.9,2020,"['Adventure', 'Puzzle']",June,82,['1st-person'],['Visual novel'],['Menu structures'],['Sci-fi / futuristic']
+Fuga: Melodies of Steel 2,7.9,2023,['Role-playing (RPG)'],May,82,['Side view'],"['Japanese-style', 'Role-playing']",['Menu structures'],['Sci-fi / futuristic']
+Devil May Cry 3: Dante's Awakening - Special Edition,7.9,2020,['Action'],January,82,['3rd-person'],['Hack and slash'],,['Fantasy']
+Collection of Mana,7.9,2017,"['Action', 'Role-playing (RPG)', 'Compilation']",June,81,['Diagonal-down'],,,['Fantasy']
+Golf Story,7.9,2017,['Adventure'],September,81,['Diagonal-down'],,,
+Ion Fury,7.9,2020,['Action'],February,81,"['1st-person', 'Behind view']",['Shooter'],['Direct control'],"['Cyberpunk / dark sci-fi', 'North', 'America']"
+Windjammers 2,7.9,2022,"['Action', 'Sports']",January,80,['Top-down'],,['Direct control'],['Fantasy']
+Wandersong,7.9,2018,['Adventure'],September,86,['Side view'],"['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Llamasoft: The Jeff Minter Story,7.9,2024,"['Action', 'Educational', 'Compilation']",March,83,['3rd-person'],['Shooter'],['Direct control'],['Sci-fi / futuristic']
+Necrobarista,7.9,2021,['Adventure'],July,80,['3rd-person'],['Visual novel'],['Menu structures'],"['Contemporary', 'Fantasy']"
+Warframe,7.9,2018,['Action'],March,78,['Behind view'],"['Role-playing elements', 'Shooter']",,['Sci-fi / futuristic']
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
+Ys VIII: Lacrimosa of Dana,7.9,2018,['Role-playing (RPG)'],July,84,['Behind view'],"['Action', 'Role-playing', 'Hack and slash']",['Direct control'],['Fantasy']
+Moon: Remix RPG Adventure,7.9,2019,['Adventure'],October,82,"['3rd-person', 'Top-down']",,,"['Fantasy', 'Sci-fi / futuristic']"
+Lil' Guardsman,7.9,2024,['Adventure'],January,85,['Side view'],"['Puzzle elements', 'Role-playing elements']",['Point and select'],['Fantasy']
+NeuroVoider,7.9,2017,['Action'],August,82,['Diagonal-down'],"['Arcade', 'Shooter']",,['Sci-fi / futuristic']
+Snufkin: Melody of Moominvalley,7.9,2024,['Adventure'],March,82,['3rd-person'],,['Direct control'],['Fantasy']
+Terraria,7.9,2019,['Action'],May,82,['Side view'],"['Platform', 'Role-playing elements', 'Sandbox / open world']",,['Fantasy']
+Killer Queen Black,7.9,2019,"['Action', 'Strategy / tactics']",October,86,['Side view'],"['Arcade', 'Platform']","['Direct control', 'Multiple units/characters control']",['Fantasy']
+Crawl,7.9,2017,['Action'],August,85,['Diagonal-down'],"['Hack and slash', 'Role-playing elements']",,['Fantasy']
+Vengeful Guardian: Moonrider,7.9,2023,['Action'],January,80,['Side view'],"['Metroidvania', 'Platform']",['Direct control'],['Sci-fi / futuristic']
+Yoshi's Crafted World,7.9,2019,['Action'],March,81,"['3rd-person', 'Side view']","['Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Owlboy,7.9,2018,['Action'],November,85,['Side view'],"['Metroidvania', 'Platform', 'Puzzle elements']",['Direct control'],['Fantasy']
+Shin Megami Tensei: Persona 3 - Portable,7.9,2023,['Role-playing (RPG)'],November,87,['Diagonal-down'],"['Japanese-style', 'Role-playing']",,
+Wilmot's Warehouse,7.9,2019,['Puzzle'],October,85,['Top-down'],,['Direct control'],
+Mega Man X: Legacy Collection,7.9,2018,"['Action', 'Compilation']",July,86,['Side view'],['Platform'],,['Sci-fi / futuristic']
+Final Fantasy VII,7.9,2019,['Role-playing (RPG)'],1997,92,['3rd-person'],"['Japanese-style', 'Role-playing']",,"['Cyberpunk / dark sci-fi', 'Fantasy', 'Sci-fi / futuristic']"
+Lumines: Remastered,7.9,2018,"['Action', 'Puzzle']",June,84,['3rd-person'],,['Direct control'],
+Hyrule Warriors: Age of Calamity,7.9,2020,['Action'],November,80,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+The Great Ace Attorney Chronicles,7.9,2021,"['Adventure', 'Compilation']",July,86,['3rd-person'],['Puzzle elements'],,
+Iconoclasts,7.9,2018,['Action'],January,82,['Side view'],"['Metroidvania', 'Platform']",,['Sci-fi / futuristic']
+Fight'N Rage,7.9,2019,['Action'],September,81,['Side view'],"[""Beat 'em up / brawler""]",['Direct control'],
+Mini Metro,7.9,2018,['Strategy / tactics'],August,82,['Top-down'],,,
+Tales of Vesperia: Definitive Edition,7.9,2019,['Role-playing (RPG)'],January,84,['3rd-person'],"['Action', 'Role-playing']",['Direct control'],['Fantasy']
+Into the Breach,7.9,2018,['Strategy / tactics'],February,87,['Diagonal-down'],"['Role-playing elements', 'Turn-based tactics']",['Point and select'],['Sci-fi / futuristic']
+No More Heroes,7.9,2020,"['Action', 'Racing / Driving']",December,82,"['1st-person', 'Behind view']","['Hack and slash', 'Quick', 'Time', 'Events']",,
+Rive: Ultimate Edition,7.9,2017,['Action'],November,82,['Side view'],"['Platform', 'Shooter']",,
+Sayonara Wild Hearts,7.9,2019,"['Action', 'Racing / Driving']",September,85,"['1st-person', '3rd-person', 'Behind view']","['Arcade', 'Fighting', 'Shooter']",['Direct control'],['Fantasy']
+Torchlight II,7.9,2019,['Role-playing (RPG)'],September,85,['Diagonal-down'],"['Action', 'Role-playing', 'Hack and slash']",['Point and select'],['Fantasy']
+Phoenix Wright: Ace Attorney Trilogy,7.9,2019,"['Adventure', 'Simulation', 'Compilation']",May,84,['1st-person'],['Puzzle elements'],,
+Pikmin 1+2,7.9,2023,['Compilation'],June,85,,,,
+Dungeons of Dreadrock,7.9,2022,"['Action', 'Role-playing (RPG)']",January,81,['Top-down'],['Puzzle elements'],['Direct control'],['Fantasy']
+Citizen Sleeper,7.9,2022,['Role-playing (RPG)'],May,82,['Diagonal-down'],,"['Menu structures', 'Point and select']",['Cyberpunk / dark sci-fi']
+Atelier Mysterious Trilogy Deluxe Pack,7.9,2021,['Compilation'],April,82,,,,
+The Alliance Alive: HD Remastered,7.9,2019,['Role-playing (RPG)'],October,79,['3rd-person'],"['Japanese-style', 'Role-playing']",,['Fantasy']
+Crypt Custodian,7.9,2024,['Action'],August,84,['Diagonal-down'],"['Metroidvania', 'Puzzle elements', 'Role-playing elements']",['Direct control'],['Fantasy']
+Genesis Noir,7.8,2021,['Adventure'],March,79,"['3rd-person', 'Side view']",['Puzzle elements'],['Point and select'],['Fantasy']
+Sam & Max: Save the World,7.9,2020,"['Adventure', 'Compilation']",December,82,['3rd-person'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],
+Bravely Default II,7.8,2021,['Role-playing (RPG)'],February,80,['3rd-person'],,['Direct control'],['Fantasy']
+Monster Hunter: Stories 2 - Wings of Ruin,7.8,2021,['Role-playing (RPG)'],July,81,['3rd-person'],"['Japanese-style', 'Role-playing']",['Direct control'],['Fantasy']
+Darkest Dungeon,7.8,2018,['Role-playing (RPG)'],February,83,['Side view'],"['Tactical', 'Role-playing']",['Point and select'],['Fantasy']
+"Root Double: Before Crime, After Days - Xtend Edition",7.8,2020,['Adventure'],June,80,['1st-person'],['Visual novel'],,
+Shantae: 1/2 Genie Hero - Ultimate Edition,7.8,2018,"['Compilation', 'Special edition']",April,84,,,,
+Hyrule Warriors: Definitive Edition,7.8,2018,['Action'],March,82,['Behind view'],['Hack and slash'],['Direct control'],['Fantasy']
+Superlative Night Dreams: Cotton Rock'n Roll,7.8,2021,['Action'],September,81,['Side view'],"['Arcade', 'Shooter']",['Direct control'],['Fantasy']
+Worms: W.M.D.,7.8,2017,['Strategy / tactics'],August,79,['Side view'],['Artillery'],"['Direct control', 'Multiple units/characters control']",
+Tunic,7.8,2022,['Action'],March,85,['Diagonal-down'],"['Metroidvania', 'Puzzle elements']",['Direct control'],['Fantasy']
+Ace Combat 7: Skies Unknown (Deluxe Edition),7.8,2024,['Special edition'],January,84,,,,
+The Darkside Detective,7.8,2018,['Adventure'],July,79,['Side view'],"['Graphic adventure', 'Puzzle elements']",['Point and select'],['Fantasy']
+Night in the Woods,7.8,2018,['Adventure'],February,82,['Side view'],['Graphic adventure'],,['Fantasy']
+Overboard!,7.8,2021,['Adventure'],June,86,"['1st-person', '3rd-person', 'Side view', 'Top-down']","['Interactive fiction / text adventure', 'Puzzle elements']",['Point and select'],
+Melatonin,7.8,2022,['Action'],December,82,"['1st-person', 'Diagonal-down', 'Side view']",['Music / rhythm'],['Direct control'],
