@@ -20,7 +20,7 @@ list_columns = ['Genre', 'Perspective', 'Gameplay', 'Interface', 'Setting']
 for col in list_columns:
     data[col] = data[col].apply(lambda x: ast.literal_eval(x) if pd.notnull(x) else [])
 
-st.title("Play With Game Data")
+st.title("Playing with Game Data")
 
 tab1, tab2, tab3 = st.tabs(['Explore', 'Find a Game by Criteria', 'Find a Game by Title'])
 
