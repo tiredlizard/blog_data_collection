@@ -230,7 +230,7 @@ with tab2:
 
 
 with tab3:
-    st.write("Find a game you know, if it's in this dataset. No typos and no guarantees.")
+    st.write("Find out if a game you know is in this dataset. No typos and no guarantees.")
     game_name = st.text_input("Name of Game:", 'Celeste')
     name_filter = data[data['Title'] == game_name]
     st.dataframe(name_filter)
